@@ -1,0 +1,15 @@
+D:\Serhat\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.exe
+D:\Serhat\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.deps.json
+D:\Serhat\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.runtimeconfig.json
+D:\Serhat\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.dll
+D:\Serhat\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.pdb
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.csproj.AssemblyReference.cache
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfoInputs.cache
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfo.cs
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.dll
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\refint\degiskenler.dll
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.pdb
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.genruntimeconfig.cache
+D:\Serhat\Pratikler\degiskenler\obj\Debug\net7.0\ref\degiskenler.dll
